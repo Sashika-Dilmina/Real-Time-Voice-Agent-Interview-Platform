@@ -61,6 +61,7 @@ const AuthForm = ({type}: {type: FormType}) => {
                   alt="logo" 
                   height={32}
                   width={38} 
+                 
                 />
                 <h2 className="text-primary-100">MeetWise</h2>
 
